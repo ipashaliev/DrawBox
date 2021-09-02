@@ -1,0 +1,12 @@
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\bin\Debug\ClassLibraryShape.dll
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\bin\Debug\ClassLibraryShape.pdb
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.csprojAssemblyReference.cache
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.csproj.CoreCompileInputs.cache
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.dll
+C:\Users\IvanP\Desktop\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.pdb
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\bin\Debug\ClassLibraryShape.dll
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\bin\Debug\ClassLibraryShape.pdb
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.csprojAssemblyReference.cache
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.csproj.CoreCompileInputs.cache
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.dll
+C:\Users\IvanP\Desktop\course-project-OOP\DrawBox\ClassLibraryShape\obj\Debug\ClassLibraryShape.pdb
